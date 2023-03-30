@@ -13,7 +13,4 @@
 <p align="center">
  <img src=https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg width="30" height="30">
  <img src=https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg width="30" height="30">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,py,docker,c,vim" />
-  </a>
 </p>
