@@ -1,6 +1,6 @@
 ### Hi there! <img src= https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 width="30" height="30">, I'm Tajudeen Shodara.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+<-
 **TajudeenShodara/TajudeenShodara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+->
 🎓 I am Tapajyoti Bose, a Front End Web Developer (specializing in React Applications) and a Top Rated Freelancer on Upwork. I am also Pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2022.
 
 👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several Gigantic Organizations including, Material UI, Microsoft, Amazon, Webhint, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned Next.js, Progressive Web App (PWA), GraphQL, Micro-Frontend Architecture and Blockchain development & DApps. I got started with Freelancing and Blogging quite recently and made a name for myself.
