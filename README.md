@@ -16,6 +16,7 @@
  <img src=https://github.com/TajudeenShodara/TajudeenShodara/blob/main/advanced_excel.png>
  <img src=https://github.com/TajudeenShodara/TajudeenShodara/blob/main/mysql.png>
  <img src=https://github.com/TajudeenShodara/TajudeenShodara/blob/main/python.png>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
 
 
