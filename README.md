@@ -19,10 +19,14 @@
 
 **OTHER SKILLS**
 
-+ Training
-+ Banking
-+ Marketing
-+ Administrative Assistance
++ Training Facilitator and Coordinator.
++ Banking.
++ Marketing.
++ Administrative Assistance.
++ Human Resources (HR).
++ Business Relationship Management.
++ Customer Care.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shodara-tajudeen-adeleke)
